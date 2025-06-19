@@ -1,25 +1,8 @@
 ## Hi there 👋
 
-<!--
-**PRATYUSHAJOGI/PRATYUSHAJOGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋
-
 🎓🛠️ I’m currently working on:  
 **Performance Analysis of Multimodal Large Language Models for Indic Script Recognition**  
-**E-Generation Classification Project** 
-  SmartBridge Summer Internship
+**E-Generation Classification Project** (SmartBridge Summer Internship)
 
 🌱 I’m currently learning:  
 Data Structures & Algorithms in Java, Machine Learning, and Deep Learning
@@ -35,7 +18,7 @@ AI/ML concepts, my projects, internships, and productivity strategies for studen
 
 📫 How to reach me:  
 📧 [jogipratyusha95@gmail.com](mailto:jogipratyusha95@gmail.com)  
-🔗 [LinkedIn]([https://linkedin.com/in/jogi-pratyusha](https://www.linkedin.com/in/jogi-pratyusha-0bb37a220/))
+🔗 [LinkedIn](https://www.linkedin.com/in/jogi-pratyusha-0bb37a220/)
 
 😄 Pronouns:  
 She/Her
