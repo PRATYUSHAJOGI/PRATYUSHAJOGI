@@ -35,7 +35,7 @@ AI/ML concepts, my projects, internships, and productivity strategies for studen
 
 📫 How to reach me:  
 📧 [jogipratyusha95@gmail.com](mailto:jogipratyusha95@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/jogi-pratyusha)
+🔗 [LinkedIn]([https://linkedin.com/in/jogi-pratyusha](https://www.linkedin.com/in/jogi-pratyusha-0bb37a220/))
 
 😄 Pronouns:  
 She/Her
